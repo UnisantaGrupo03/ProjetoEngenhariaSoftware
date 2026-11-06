@@ -1,0 +1,29 @@
+# ADR-001 — Compatibilidade Horario
+
+- **Situação:** proposta | aceita | substituída por ADR-001
+- **Data:** <2026-11-06>
+- **Participantes:** Luis Leal,Bruno Reis, Osvaldo Vasconcellos, Renan Hideki, Enzo Alonso.
+
+## Contexto
+
+Estudante trabalhador vê compatibilidade de horário ANTES de entrar
+
+## Decisão
+
+Declaração de horários indisponíveis
+Filtragem por compatibilidade
+Indicação de encontros remotos
+
+## Alternativas consideradas
+
+| Alternativa | Por que não foi escolhida |
+|---|---|
+|  Indicação de encontros remotos | Filtrar por formato (presencial/remoto) |
+| Declaração de horários indisponíveis | Registrar horário disponível com sucesso dado que o estudante está no perfil |
+| Filtragem por compatibilidade | Ver grupos que coincidem |
+
+## Consequências
+
+- **Positivas:** O estudante verá com mais facilidade quem está na sua turma
+- **Negativas:** a forma como será feita e as decisões que o time irá tomar até o resultado final
+- **Como verificar:** horarios organizados e compativeis
